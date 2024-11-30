@@ -76,9 +76,10 @@ Steps:
 Use a C++ compiler like `g++`:
 ```bash
 g++ -o assignment_solution solution.cpp
-
+```
 
 ### Run:
 For Linux:
-
+```
 ./assignment_solution
+```
